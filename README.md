@@ -137,7 +137,7 @@ Blinkit-Analysis/
 )
 
 ### 🟡 Python EDA Charts
-![Python Analysis](images/python_charts.png)
+![Python Analysis](https://github.com/PatlaveetiJabeer786/End-to-End-Data-Analytics-Project-SQL-Python-Excel-Power-BI/blob/main/Blinkit_project_using_python/blinkit_python_eda_dashboard.png)
 
 ---
 
