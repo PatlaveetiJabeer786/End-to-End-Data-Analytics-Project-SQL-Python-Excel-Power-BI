@@ -133,7 +133,8 @@ Blinkit-Analysis/
 ![Power BI Dashboard](images/powerbi_dashboard.png)
 
 ### 🟢 Excel Dashboard
-![Excel Dashboard]()
+![Excel Dashboard](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/76eb37c5-d7e7-4e0b-ba35-989b78fd5ee0" />
+)
 
 ### 🟡 Python EDA Charts
 ![Python Analysis](images/python_charts.png)
