@@ -130,7 +130,7 @@ Blinkit-Analysis/
 ## 📸 Dashboard Screenshots
 
 ### 🔵 Power BI Dashboard
-![Power BI Dashboard](images/powerbi_dashboard.png)
+![Power BI Dashboard](https://github.com/PatlaveetiJabeer786/End-to-End-Data-Analytics-Project-SQL-Python-Excel-Power-BI/blob/main/Blinkit_project_using_power%20bi/Blinkit_Analysis_Power%20BI_Dashboard.png)
 
 ### 🟢 Excel Dashboard
 ![Excel Dashboard](https://github.com/PatlaveetiJabeer786/End-to-End-Data-Analytics-Project-SQL-Python-Excel-Power-BI/blob/main/Blinkit_project_using_Excel/Blinkit_Sales_Analyis_Excel_Dashboard.png
